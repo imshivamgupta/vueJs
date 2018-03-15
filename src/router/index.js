@@ -1,9 +1,9 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import HelloWorld from '@/components/HelloWorld'
-import Login from '@/components/Login'
-import Admin from '@/components/Admin'
-import Normal from '@/components/Normal'
+import HelloWorld from '../components/HelloWorld'
+import Login from '../components/Login'
+import Admin from '../components/Admin'
+import Normal from '../components/Normal'
 
 Vue.use(Router)
 
