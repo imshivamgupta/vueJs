@@ -127,9 +127,15 @@ export default {
         //this.someData = response.body;
         console.log(response);
 
+<<<<<<< HEAD
         }, response => {
             // error callback
         });
+=======
+    }, response => {
+        // error callback
+    });
+>>>>>>> 4fb2118eaa1bad9c0b795a5fc890c8cf6bd749b4
         // this.http.get('./api.php?action='101',{foo:bar}).then{
         //     response == 200
         //     if(admin )
